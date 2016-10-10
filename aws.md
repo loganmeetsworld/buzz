@@ -1,3 +1,6 @@
+### ASG  
+Auto-Scaling Group. Scale your Amazon EC2 capacity up or down automatically according to conditions you define.
+
 ### EC2  
 Amazon Elastic Compute Cloud. Also referred to simply as an "instance". It is a virutal computing environment. The templates for these instances are _AMIs_. 
 
