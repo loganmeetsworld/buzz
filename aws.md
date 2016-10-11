@@ -10,6 +10,9 @@ Secure login information for your _instances_.
 ### Region  
 Physical location for your AWS _resources_. 
 
+## AZ  
+Availability Zones. Think locations of servers! Amazon instances (EC2s) are hosted in locations all over the world. These locations are composed of regions and Availability Zones. Each region is the geographical area and each has multiple AZs.
+
 ### ECS
 Think Docker! Amazon EC2 Container Service. Use the API to can launch and stop Docker-enabled applications and query the complete state of your cluster. 
 
