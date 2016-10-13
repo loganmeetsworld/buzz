@@ -21,3 +21,6 @@ Think server hardware! Amazon Elastic Block Store. This provides persistent bloc
 
 ### AMI  
 Think images! Amazon Machine Image provides information required to launch an _instance_ (aka a virual server in the cloud). You specify an AMI when you launch one of these instances and you can launch as many instances from the AMI as you need. It includes a template for root volume for the instance. 
+
+### Redshift 
+Think Data! Petabyte-scale data storage that makes it cost-effective to analyze big data.
