@@ -27,3 +27,6 @@ Think images! Amazon Machine Image provides information required to launch an _i
 
 ### Redshift 
 Think Data! Petabyte-scale data storage that makes it cost-effective to analyze big data.
+
+### SQS 
+Simple Queue Service is a message queuing service. It queues messages, a queue is a temporary repo for messages waiting. 
