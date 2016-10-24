@@ -17,3 +17,12 @@ What ever you have copied will get pasted. Just running the command `cat`s it, b
 
 ### lsof  
 list all open files
+
+### chown
+Change owner. switch between unprivledged and privledged users.
+
+### chmod
+Change mode. Change access permissions to file system objects. Allow files to be executed.
+
+### adduser
+Low-level utility for adding users to system. 
