@@ -1,3 +1,6 @@
+### filesystem
+A filesystem is the street grid of your hard drive. It’s a map of addresses to where data is located on your drive. Your operating system uses the filesystem to store data on the drive. - Ops School
+
 ### #serverless/#noops  
 A movement moving towards abstracting users away from servers, infrastructure, and having to deal with configuration. Now we can use so many single purpose services (s3 for storage, lambda for compute platforms executing code). By composing and combining a ton of these services together loosely we can build complex systems like the ones we had before. Caveat being that now you have 50 services and have to teach people to use 50 services.
 
