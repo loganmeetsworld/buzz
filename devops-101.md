@@ -1,3 +1,7 @@
+### kernel
+Like the nucleus of a computer program. It controls everything that occurs in
+the system.
+
 ### filesystem
 A filesystem is the street grid of your hard drive. It’s a map of addresses to where data is located on your drive. Your operating system uses the filesystem to store data on the drive. - Ops School
 
