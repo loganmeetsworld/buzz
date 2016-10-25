@@ -10,3 +10,5 @@ Apache Lucene. A search engine library or "Information retrieval software librar
 A shard is a single Lucene instance. It is a low-level worker unit managed by elasticsearch. An index is a logical namespace pointing to primary and replica shards. 
 
 Elasticsearch distributes shards amongst all nodes in the cluster. It can move these shards automatically from one node to another in case of node failure. 
+
+## MySQL vs postgresQL
