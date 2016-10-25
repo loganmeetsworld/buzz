@@ -26,3 +26,6 @@ Change mode. Change access permissions to file system objects. Allow files to be
 
 ### adduser
 Low-level utility for adding users to system. 
+
+### -rw-r----- owner and group permissions
+A user can read and write to that file, but the group is read only
