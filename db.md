@@ -11,4 +11,7 @@ A shard is a single Lucene instance. It is a low-level worker unit managed by el
 
 Elasticsearch distributes shards amongst all nodes in the cluster. It can move these shards automatically from one node to another in case of node failure. 
 
-## MySQL vs postgresQL
+## Mapping
+Process whereby we define the searchable characteristics and indexes. Process
+that shows how the document is indexed and stores information.
+
