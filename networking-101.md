@@ -6,3 +6,8 @@ A process is trying to open too many files. Unix systems have a max number of fi
 
 ### Protocol  
 Think rules and regulations. A set of rules and standards that define a language that devices can use to talk to one another. There are a great number of protocols in use extensively in networking, and they are often implemented in different layers.
+
+### CIDR Blocks  
+Classless Inter-Domain Routing. This is a method for allocating IP addresses
+and routing IP packets. It is a way of allowing flexible allocation of IPs and
+made the number of IPs much more. So the blocks are blocks of IPs. 
