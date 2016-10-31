@@ -1,3 +1,7 @@
+### `cp` trick
+`cp foo{-bar,}.json` - copies a file named foo-bar.json to a file named
+foo.json, can easily parse file naming this way
+
 ### `top`
 display and update sorted information about processes
 
