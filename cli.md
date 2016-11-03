@@ -33,3 +33,6 @@ Low-level utility for adding users to system.
 
 ### -rw-r----- owner and group permissions
 A user can read and write to that file, but the group is read only
+
+### ssh configs
+Can make life easier. Your ssh options will be read from the configuration file.
