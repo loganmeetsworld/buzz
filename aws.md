@@ -30,3 +30,6 @@ Think Data! Petabyte-scale data storage that makes it cost-effective to analyze 
 
 ### SQS 
 Simple Queue Service is a message queuing service. It queues messages, a queue is a temporary repo for messages waiting. 
+
+### CloudFormation
+A way of specifying templates with infrastructure and using those templates to create that infrastructure. 
