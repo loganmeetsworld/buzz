@@ -1,3 +1,6 @@
+### Berkeley Sockets API
+First implementation of the TCP. You can use sockets without having to know the details of this underlying protocol.
+
 ### UDP  
 User Datagram Protocol, connectionless transmission model w/ a minimum protocol mechanism
 
