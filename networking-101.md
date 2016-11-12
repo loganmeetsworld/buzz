@@ -19,4 +19,4 @@ and routing IP packets. It is a way of allowing flexible allocation of IPs and
 made the number of IPs much more. So the blocks are blocks of IPs. 
 
 ### TCP  
-The Transmission Control Protocol (TCP) is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP)
+The Transmission Control Protocol (TCP) is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). 
