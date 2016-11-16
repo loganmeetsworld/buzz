@@ -26,3 +26,9 @@ VPN stands for virtual private network. It is a means of connecting separate LAN
 
 ## LAN 
 LAN stands for "local area network". It refers to a network or a portion of a network that is not publicly accessible to the greater internet. A home or office network is an example of a LAN.
+
+## Media Access Control 
+Communications protocol for distinguishing specific devices. 
+
+## OSI
+Open Systems Interconnect
