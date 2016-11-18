@@ -32,3 +32,6 @@ Communications protocol for distinguishing specific devices.
 
 ## OSI
 Open Systems Interconnect
+
+## Service Discovery
+If you are writing code that invokes a service that has a REST API, your code needs to know the network location (IP address and port) of a service instance. In a traditional application running on physical hardware, the network locations of service instances are relatively static. 
