@@ -3,3 +3,4 @@
 * ["Wtf is Operations? #Serverless"](https://charity.wtf/2016/05/31/wtf-is-operations-serverless/) by Charity Majors
 * [Etsy's Engineering Blog: 'Code is Craft'](https://codeascraft.com/)
 * [DevOps Wiki](https://en.wikipedia.org/wiki/DevOp)
+* [Colin Jones Blog](https://8thlight.com/blog/colin-jones/archive.html)
