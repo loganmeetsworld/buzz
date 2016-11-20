@@ -4,3 +4,5 @@
 * [Etsy's Engineering Blog: 'Code is Craft'](https://codeascraft.com/)
 * [DevOps Wiki](https://en.wikipedia.org/wiki/DevOp)
 * [Colin Jones Blog](https://8thlight.com/blog/colin-jones/archive.html)
+* [CAP
+  Theorm](http://mwhittaker.github.io/2014/08/16/illustrated-proof-cap-theorem/)
