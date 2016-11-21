@@ -4,5 +4,5 @@
 * [Etsy's Engineering Blog: 'Code is Craft'](https://codeascraft.com/)
 * [DevOps Wiki](https://en.wikipedia.org/wiki/DevOp)
 * [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
-* [Linux Drawings by Julia
-  Evans](http://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/)
+* [Linux Drawings by Julia Evans](http://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/)
+* [Security Related - Poison Tap](http://arstechnica.com/security/2016/11/meet-poisontap-the-5-tool-that-ransacks-password-protected-computers/)
