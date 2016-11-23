@@ -9,3 +9,7 @@
 * [Colin Jones Blog](https://8thlight.com/blog/colin-jones/archive.html)
 * [CAP Theorm](http://mwhittaker.github.io/2014/08/16/illustrated-proof-cap-theorem/)
 * [ABC's of Bash](http://ss64.com/bash/)
+
+### On Data
+* [Rust hash iteration](http://accidentallyquadratic.tumblr.com/post/153545455987/rust-hash-iteration-reinsertion)
+
