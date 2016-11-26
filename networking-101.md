@@ -1,6 +1,9 @@
 ### Berkeley Sockets API
 First implementation of the TCP. You can use sockets without having to know the details of this underlying protocol.
 
+## ICMP
+Internet control message protocol
+
 ### netcat
 Unix utility for creating TCP (and UDP) connections and listens. Useful to work with sockets. 
 
