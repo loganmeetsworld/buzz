@@ -31,7 +31,10 @@ LAN stands for "local area network". It refers to a network or a portion of a ne
 Communications protocol for distinguishing specific devices. 
 
 ## OSI
-Open Systems Interconnect
+Open Systems Interconnect, seven separate layers
+
+## Media Access Control
+Communications protocol that is used to distinguish specific devices.
 
 ## Service Discovery
 If you are writing code that invokes a service that has a REST API, your code needs to know the network location (IP address and port) of a service instance. In a traditional application running on hardware, the network locations of service instances are more static. 
