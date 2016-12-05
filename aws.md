@@ -33,3 +33,9 @@ Simple Queue Service is a message queuing service. It queues messages, a queue i
 
 ### CloudFormation
 A way of specifying templates with infrastructure and using those templates to create that infrastructure. 
+
+### ENI
+An elastic network interface (referred to as a network interface in this
+documentation) is a virtual network interface that you can attach to an
+instance in a VPC. Network interfaces are available only for instances running
+in a VPC.
