@@ -14,3 +14,5 @@
 ### On Data
 * [Rust hash iteration](http://accidentallyquadratic.tumblr.com/post/153545455987/rust-hash-iteration-reinsertion)
 
+### On Security
+* [Eteruem Hack](https://www.troyhunt.com/the-ethereum-forum-was-hacked-and-theyve-voluntarily-submitted-the-data-to-have-i-been-pwned/)
