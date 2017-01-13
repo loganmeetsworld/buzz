@@ -8,7 +8,7 @@ Internet control message protocol
 Unix utility for creating TCP (and UDP) connections and listens. Useful to work with sockets. 
 
 ### UDP  
-User Datagram Protocol, connectionless transmission model w/ a minimum protocol mechanism
+User Datagram Protocol, connectionless transmission model w/ a minimum protocol mechanism, doesn't confirm if sent, usually in contrast to TCP, used by DNS
 
 ### EMFILE  
 A process is trying to open too many files. Unix systems have a max number of file descriptors they can be assigned. The EMFILE error is thrown when too many of these are open
