@@ -1,6 +1,9 @@
 ### Berkeley Sockets API
 First implementation of the TCP. You can use sockets without having to know the details of this underlying protocol.
 
+### TCP 
+Transmission Control Protocol. TCP is an algorithm where you send data in packets.
+
 ## ICMP
 Internet control message protocol
 
