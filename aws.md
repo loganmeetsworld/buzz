@@ -42,3 +42,6 @@ An elastic network interface (referred to as a network interface in this
 documentation) is a virtual network interface that you can attach to an
 instance in a VPC. Network interfaces are available only for instances running
 in a VPC.
+
+### EFS
+Elastic File System. Simple, scalable file storage for use with Amazon EC2 instances in the AWS Cloud.
