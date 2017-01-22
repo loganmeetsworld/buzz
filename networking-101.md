@@ -1,6 +1,9 @@
 ### Berkeley Sockets API
 First implementation of the TCP. You can use sockets without having to know the details of this underlying protocol.
 
+### TCP/UDP 
+Both TCP and UDP are protocols used for sending bits of data. They both build on top of the Internet protocol.  These packets are treated similarly, as they’re forwarded from your computer to intermediary routers and on to the destination.
+
 ### TCP 
 Transmission Control Protocol. TCP is an algorithm where you send data in packets.
 
