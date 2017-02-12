@@ -50,3 +50,7 @@ If you are writing code that invokes a service that has a REST API, your code ne
 
 ## FPGA
 A field-programmable gate array (FPGA) is an integrated circuit designed to be configured by a customer or a designer after manufacturing.
+
+
+## cd //
+https://unix.stackexchange.com/questions/1910/how-does-linux-handle-multiple-consecutive-path-separators-home-username
