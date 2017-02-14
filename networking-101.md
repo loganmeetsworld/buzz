@@ -1,6 +1,12 @@
 ### Berkeley Sockets API
 First implementation of the TCP. You can use sockets without having to know the details of this underlying protocol.
 
+### TCP/UDP 
+Both TCP and UDP are protocols used for sending bits of data. They both build on top of the Internet protocol.  These packets are treated similarly, as they’re forwarded from your computer to intermediary routers and on to the destination.
+
+### TCP 
+Transmission Control Protocol. TCP is an algorithm where you send data in packets.
+
 ## ICMP
 Internet control message protocol
 
@@ -47,3 +53,6 @@ A field-programmable gate array (FPGA) is an integrated circuit designed to be c
 
 ## Port
 A port is an address on a single machine that can be tied to a specific piece of software. It is not a physical interface or location, but it allows your server to be able to communicate using more than one application.
+
+## cd //
+https://unix.stackexchange.com/questions/1910/how-does-linux-handle-multiple-consecutive-path-separators-home-username
