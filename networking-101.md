@@ -44,3 +44,6 @@ If you are writing code that invokes a service that has a REST API, your code ne
 
 ## FPGA
 A field-programmable gate array (FPGA) is an integrated circuit designed to be configured by a customer or a designer after manufacturing.
+
+## Port
+A port is an address on a single machine that can be tied to a specific piece of software. It is not a physical interface or location, but it allows your server to be able to communicate using more than one application.
