@@ -15,3 +15,5 @@ Elasticsearch distributes shards amongst all nodes in the cluster. It can move t
 Process whereby we define the searchable characteristics and indexes. Process
 that shows how the document is indexed and stores information.
 
+## Concurrency
+The property in which two or more computing processes are executing at the same time.
