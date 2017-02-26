@@ -11,6 +11,7 @@
 * [ABC's of Bash](http://ss64.com/bash/)
 * [JE's illustration on Linux permissions](https://twitter.com/b0rk/status/801233053699940352)
 * [JE's What's interesting about UDP](https://jvns.ca/blog/2016/12/21/what-s-interesting-about-udp/)
+* [Site Reliability Engineer Handbook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/content/)
 
 ### On Data
 * [Rust hash iteration](http://accidentallyquadratic.tumblr.com/post/153545455987/rust-hash-iteration-reinsertion)
