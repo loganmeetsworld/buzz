@@ -18,3 +18,6 @@
 
 ### On Security
 * [Eteruem Hack](https://www.troyhunt.com/the-ethereum-forum-was-hacked-and-theyve-voluntarily-submitted-the-data-to-have-i-been-pwned/)
+
+### On Logs
+* [Lies my Parents Told Me (About Logs)](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/)
