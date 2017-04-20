@@ -3,3 +3,6 @@ Short for Mutual Exclussion. A program object that allows multiple program threa
 
 ### FP
 functional programming
+
+### OOP
+Object Oriented Programming
