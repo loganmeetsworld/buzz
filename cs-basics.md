@@ -3,3 +3,11 @@ Short for Mutual Exclussion. A program object that allows multiple program threa
 
 ### FP
 functional programming
+
+## Containers
+
+### cgroups
+(abbreviated from control groups) is a Linux kernel feature that limits, accounts for, and isolates the resource usage (CPU, memory, disk I/O, network)
+
+### namespaces
+Namespaces are a feature of the Linux kernel that isolates and virtualizes system resources of a collection of processes. Examples of resources that can be virtualized include process IDs, hostnames, user IDs, network access, interprocess communication, and filesystems
