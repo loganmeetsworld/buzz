@@ -10,3 +10,6 @@ Two-factor authentication.
 
 # MD5
 An algorithm that is used to verify data integrity through the creation of a 128-bit message digest from data input
+
+# Vault 
+Secret storage made by Hashicorp
