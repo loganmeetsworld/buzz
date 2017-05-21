@@ -1,3 +1,6 @@
+## ELK
+Elastcisearch-Logstash-Kibana
+
 ## Shard
 A database shard is a horizontal partition of data in a database or search engine. Each partition is a database shard. Horizontal partitioning is a database design principle whereby rows of a database table are held separately, rather than being split into columns. Each of these partitions is a "shard".
 
@@ -17,3 +20,6 @@ that shows how the document is indexed and stores information.
 
 ## NoSQL
 Not Only SQL. Provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases.
+
+## Concurrency
+The property in which two or more computing processes are executing at the same time.
