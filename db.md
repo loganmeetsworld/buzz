@@ -15,3 +15,5 @@ Elasticsearch distributes shards amongst all nodes in the cluster. It can move t
 Process whereby we define the searchable characteristics and indexes. Process
 that shows how the document is indexed and stores information.
 
+## NoSQL
+Not Only SQL. Provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases.
