@@ -21,3 +21,7 @@
 
 ### On Logs
 * [Lies my Parents Told Me (About Logs)](https://honeycomb.io/blog/2017/04/lies-my-parents-told-me-about-logs/)
+
+
+### Misc
+* [Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
