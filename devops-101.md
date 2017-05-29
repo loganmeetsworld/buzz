@@ -22,3 +22,6 @@ Systems call or kernel call. It is a request in a Unix-like OS made via a softwa
 
 ### fstab
 A configuration file at /etc/fstab that contains information to automate mounting. Mounting = process where a partition is prepared for access and assigned a location on the file system tree. 
+
+### distributed tracing
+Monitor (via tracing) the processes that an app takes throughout multiple services.
