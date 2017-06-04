@@ -25,3 +25,6 @@
 
 ### Misc
 * [Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
+
+### Functional Javascript
+* [Mostly Adequate](https://github.com/MostlyAdequate/mostly-adequate-guide)
