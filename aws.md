@@ -45,3 +45,8 @@ in a VPC.
 
 ### EFS
 Elastic File System. Simple, scalable file storage for use with Amazon EC2 instances in the AWS Cloud.
+
+### KMS
+
+Key management store.
+https://aws.amazon.com/kms/
