@@ -1,6 +1,10 @@
 ### ASG  
 Auto-Scaling Group. Scale your Amazon EC2 capacity up or down automatically according to conditions you define.
 
+# SG
+
+Security Group. A security group acts as a virtual firewall that controls the traffic for one or more instances. When you launch an instance, you associate one or more security groups with the instance. You add rules to each security group that allow traffic to or from its associated instances.
+
 ### Scaling Base on Metrics
 You can create scaling policies using CloudWatch alarms to determine when your ASG should scale out OR in. 
 
