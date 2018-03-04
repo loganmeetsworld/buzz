@@ -54,3 +54,7 @@ Elastic File System. Simple, scalable file storage for use with Amazon EC2 insta
 
 Key management store.
 https://aws.amazon.com/kms/
+
+## ALB
+
+Application Load Balancer. Application Load Balancer is best suited for load balancing of HTTP and HTTPS traffic and provides advanced request routing targeted at the delivery of modern application architectures, including microservices and containers. 
