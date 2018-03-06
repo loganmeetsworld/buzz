@@ -57,4 +57,4 @@ https://aws.amazon.com/kms/
 
 ## ALB
 
-Application Load Balancer. Application Load Balancer is best suited for load balancing of HTTP and HTTPS traffic and provides advanced request routing targeted at the delivery of modern application architectures, including microservices and containers. 
+Application Load Balancer. Application Load Balancer is best suited for load balancing of HTTP and HTTPS traffic and provides advanced request routing targeted at the delivery of modern application architectures, including microservices and containers.
