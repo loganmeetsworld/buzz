@@ -40,3 +40,7 @@ Can make life easier. Your ssh options will be read from the configuration file.
 ### docker ps
 
 Lists all docker images running and can be piped to lots of other commands like `docker rm $(docker ps -aq)` or `docker stop $(docker ps -aq)`
+
+### docker inspect
+
+`docker inspect -f "{{ .HostConfig.Links }}" <name_of_your_container>`
