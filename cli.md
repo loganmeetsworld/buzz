@@ -39,8 +39,36 @@ Can make life easier. Your ssh options will be read from the configuration file.
 
 ### docker ps
 
-Lists all docker images running and can be piped to lots of other commands like `docker rm $(docker ps -aq)` or `docker stop $(docker ps -aq)`
+Lists all docker images running and can be piped to lots of other commands like `docker rm $(docker ps -aq)` or `docker stop $(docker ps -aq)`. This only removes stopped containers, doesn't delete data volumes.
 
 ### docker inspect
 
 `docker inspect -f "{{ .HostConfig.Links }}" <name_of_your_container>`
+
+Get all links for the primary container.
+
+`docker inspect --format="{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}`
+
+Get the IP for eth0 inside the container.
+
+### docker rmi
+
+`docker rmi $(docker images -q -f "dangling=true")`
+
+Remove all images, doesn't remove images in use by containers.
+
+`docker rmi $(docker images -q)`
+
+Remove all images, doesn't remove images in use by containers.
+
+### docker-machine
+
+`eval "$(docker-machine env default)"`
+
+Set docker cli to use the default VM.
+
+### docker exec
+
+`docker exec -it`
+
+Execute interactive command in running container.
